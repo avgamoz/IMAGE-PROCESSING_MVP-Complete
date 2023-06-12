@@ -6,8 +6,8 @@
 ## Introduction: 
       The project is all about the ability to predict the look of every situation whether ugly, happy or sad. I used python as a backend to               implement the intention. The future update will be to add frontend to the project so as to complement the work.
             a.  deployed site: https://qkpage1.co/p/image-processing
-            b.  final project blog article:
-            c.  author(s) LinkedIn:
+            b.  final project blog article: https://medium.com/@Donjhyde/image-processing-using-ml-5007ec545705
+            c.  author(s) LinkedIn: https://www.linkedin.com/in/akinsola-babajide-amos/
 ## Installation:
       a.  install Anaconda3 IDE
       b.  install every necessary libraries like sklearn, seaborn, etc
